@@ -1,0 +1,84 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: gray;
+
+}
+.color_orange{
+    color: orange;
+}
+.margin-below{
+    margin-bottom: 100px;
+}
+.top_sec{
+    width: 1125px;
+    margin: 0 auto;
+    display: flex;
+}
+.section_half{
+    width: 50%;
+}
+.section_half img{
+    width: 90%;
+}
+.button{
+    text-decoration: none;
+    padding: 15px 30px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    border-radius: 30px;
+}
+.second_section_half{
+    width: 40%;
+    margin-left: 55%;
+    padding-top: 115px;
+}
+.second_top_section_full{
+    background-image: url(images/female/7.png);
+    padding-bottom: 245px;
+}
+.third_top{
+    text-align: center;
+    width: 100%;
+}
+#color_gray{
+    color: gray;
+}
+.section_half2{
+    width: 32%;
+    padding: 20px;
+    box-shadow: 2px 2px 5px grey;
+    margin-left: 17px;
+    border-radius: 10px;
+}
+.section_half2 img{
+    width: 100%;
+}
+.section_half3{
+    width: 33%;
+    text-align: center;
+    padding: 20px;
+}
+.fifth_section{
+    box-shadow: 1px 1px 3px rgb(107, 104, 104);
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+}
+.six_section_full2{
+    background-color: black;
+    padding-top: 13px;
+    padding-bottom: 71px;
+}
+.section-half4{
+    width: 100%;
+    text-align: center;
+}
+.color_cyan{
+    color: gray;
+}
+
